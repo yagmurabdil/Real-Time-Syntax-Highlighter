@@ -119,12 +119,6 @@ java -cp bin com.colorparse.app.ColorParseApp
 3. **Error Reporting** - Line/column ile hata konumu
 4. **Recovery Strategies** - Hata sonrası devam etme
 
-### Performance Optimizations:
-1. **Rate Limiting** - 500ms minimum interval
-2. **Token Caching** - Gereksiz re-tokenization önleme
-3. **Incremental Updates** - Sadece değişen kısımları güncelle
-4. **Background Processing** - UI thread'i bloklamama
-
 
 1. ✅ **Lexical Analysis** - Regex tabanlı, 14 token türü
 2. ✅ **Syntax Analysis** - Grammar tabanlı parser
