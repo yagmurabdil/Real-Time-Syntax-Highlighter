@@ -1,5 +1,7 @@
 ColorParse - Real-Time Grammar-Based Syntax Highlighter 
 
+Projenin detaylı Teknik Dökümanı ve Demo Youtube Videosuna Article.docx dosyasından ulaşabilirsiniz.
+
 Bu proje, Java dersi için geliştirilmiş **gerçek zamanlı syntax highlighting** özellikli bir kod editörüdür. Proje, formal grammar tabanlı lexical analysis ve syntax parsing kullanarak Java kodlarını renkli olarak gösterir.
 
 Renk Şeması
